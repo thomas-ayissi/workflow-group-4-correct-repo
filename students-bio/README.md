@@ -1,3 +1,5 @@
-# Group 4
----
-There are ours bio
+# Group 4 Bio
+
+## Bio
+
+We have to write our bios here

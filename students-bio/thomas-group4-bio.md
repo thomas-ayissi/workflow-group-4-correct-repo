@@ -2,7 +2,7 @@
 
 ## Name
 
-:raised_hand: I am Thomas Ayissi
+:raised_hand: I am Thomas
 
 ## Places where I have lived ?
 
@@ -18,4 +18,4 @@ To improve my skills :computer: and find a job.
 
 ## :camera: Image
 
-![This is a picture of Thomas.](img/pic-thomas-ayissi.jpeg 'This is a sample image of Thomas.').
+![This is a picture of Thomas.](img/pic-thomas.jpeg "This is a sample image of Thomas.").
