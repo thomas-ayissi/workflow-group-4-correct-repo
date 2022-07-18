@@ -1,4 +1,3 @@
-
 # Group-4 README
 
 ## Week 2: Chapter 3
