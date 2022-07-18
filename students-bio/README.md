@@ -14,7 +14,7 @@
 | Annass Abbar        | [anasabbar](https://github.com/anasabbar)           |                                                |
 | Barnabas Jema       | [Lemma-Barnabas](https://github.com/Lemma-Barnabas) |                                                |
 | Nashmia Burki       | [nashmiab](https://github.com/nashmiab)             |                                                |
-| Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         | ![](img/bibhasingh.png) width="50" height="50" |
+| Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         | ![](img/bibhasingh.png width="50" height="50") |
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |                                                |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   | ![](img/pic-thomas.jpeg)                       |
 
