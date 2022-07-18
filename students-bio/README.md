@@ -29,7 +29,7 @@
 - Nashmia
   - > ""
 - Oleksii
-  - > ""
+  - > "float like a butterfly, work-hard like a bee"
 - Thomas
   - > "_Bis repetita placent_” (Things repeated, asked for again, end up
     > pleasing.)"
