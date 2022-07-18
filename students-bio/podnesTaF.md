@@ -8,13 +8,13 @@
 >
 > - Finish School #1 in Cherkassy
 > - entered the Kyiv-Mohila academy on managment
-
+>
 > ## hobby
 >
 > - Track and Field
 > - reading
 > - Frontend/Backend
-
+>
 > ## my page
 
 - [instagram](https://www.instagram.com/podnes_/)
