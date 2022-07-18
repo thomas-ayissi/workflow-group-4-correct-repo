@@ -15,7 +15,7 @@
 | Barnabas Jema       | [Lemma-Barnabas](https://github.com/Lemma-Barnabas) |
 | Nashmia Burki       | [nashmiab](https://github.com/nashmiab)             |
 | Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         |
-| Oleksii Pidnebesnyi | [podnesTaF](https://github.com/nashmiab)            |
+| Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)            |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 
 ### Quetes That Sums Up The Team Members Mindset for This Week
