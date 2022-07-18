@@ -18,14 +18,14 @@
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 
-### Quetes That Sums Up The Team Members Mindset for This Week
+### Quotes That Sums Up The Team Members Mindset for This Week
 
 - Anass
   - > ""
 - Barnabas
   - > _"**Be** the **Be** you tell others to **Be**"_
 - Bibha
-  - > ""
+  - > "None of us is as smart as all of us "
 - Nashmia
   - > ""
 - Oleksii
