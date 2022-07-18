@@ -1,3 +1,4 @@
+
 # Group-4 README
 
 ## Week 2: Chapter 3
@@ -33,3 +34,4 @@
 - Thomas
   - > "_Bis repetita placent_” (Things repeated, asked for again, end up
     > pleasing.)"
+
