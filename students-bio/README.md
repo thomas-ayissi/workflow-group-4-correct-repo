@@ -9,14 +9,14 @@
 
 ## Group Members
 
-| Name                | GitHub Links                                        |
-| ------------------- | --------------------------------------------------- |
-| Annass Abbar        | [anasabbar](https://github.com/anasabbar)           |
-| Barnabas Jema       | [Lemma-Barnabas](https://github.com/Lemma-Barnabas) |
-| Nashmia Burki       | [nashmiab](https://github.com/nashmiab)             |
-| Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         |
-| Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
-| Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
+| Name                | GitHub Links                                        | Profile Picture         |
+| ------------------- | --------------------------------------------------- | ----------------------- |
+| Annass Abbar        | [anasabbar](https://github.com/anasabbar)           |                         |
+| Barnabas Jema       | [Lemma-Barnabas](https://github.com/Lemma-Barnabas) |                         |
+| Nashmia Burki       | [nashmiab](https://github.com/nashmiab)             |                         |
+| Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         | [](img/bibhasingh.png)  |
+| Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |                         |
+| Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   | [](img/pic-thomas.jpeg) |
 
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
