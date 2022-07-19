@@ -7,12 +7,7 @@
     "Pidnebesnyi",
     "Cherkassy",
     "Mohila",
-    "managment",
-    "bibhasingh",
-    "bibha",
-    "Annass",
-    "Abbar",
-    "anasbbar"
+    "managment"
   ],
   "ignorePaths": [
     "node_modules/**",
