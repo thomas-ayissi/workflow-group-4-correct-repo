@@ -1,3 +1,3 @@
-# my profile
+# My profile
 
-![my profile](students-bio/img/bibhasingh.png)
+![my-pic](students-bio/img/bibha.png)
