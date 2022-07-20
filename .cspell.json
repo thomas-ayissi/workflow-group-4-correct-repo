@@ -36,7 +36,7 @@
     "**/*.mp4",
     "**/*.svg",
     ".ls-lint.yml",
-    "**/*.md",
-    "students-bio/podnesTaF"
+    "**/*.md"
+
   ]
 }
