@@ -18,16 +18,16 @@
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 
-### Quetes That Sums Up The Team Members Mindset for This Week
+### Quotes That Sums Up The Team Members Mindset for This Week
 
 - Anass
-  - > ""
+  - > "Whatever you are,be a good one"
 - Barnabas
   - > _"**Be** the **Be** you tell others to **Be**"_
 - Bibha
   - > ""
 - Nashmia
-  - > ""
+  - > "If _the plan_ does't work, change _the plan_ but not _the goal_."
 - Oleksii
   - > "float like a butterfly, work-hard like a bee"
 - Thomas
