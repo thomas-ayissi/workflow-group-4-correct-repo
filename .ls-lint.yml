@@ -4,9 +4,8 @@ ls:
 
 ignore:
   - .git
-  - node_modules
+  -  node_modules
   - .github
   - .vscode
   - .idea
   - .DS_Store
-  - students-bio/podnesTaF
