@@ -34,6 +34,8 @@
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg"
+    "**/*.svg",
+    ".ls-lint.yml",
+    "**/*.md"
   ]
 }

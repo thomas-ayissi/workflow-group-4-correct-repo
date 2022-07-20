@@ -1,4 +1,14 @@
 node_modules
 .DS_Store
 .idea
+.ls-lint.yml
+.vscode
+.vscode-test
+.vscode-test-data
+.vscode-test-data-unittest
+.vscode-test-data-unittest-test
+.vscode-test-data-unittest-test-data
+.vscode-test-data-unittest-test-data-unitest
+.vscode-test-data-unittest-test-data-unitest-test
+
 
