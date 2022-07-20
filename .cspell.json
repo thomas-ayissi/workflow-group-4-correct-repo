@@ -26,8 +26,7 @@
     "Ababa",
     "Lngs",
     "kiki",
-    "Annass",
-    "Jema"
+    "Annass"
   ],
   "ignorePaths": [
     "node_modules/**",
@@ -37,6 +36,5 @@
     "**/*.svg",
     ".ls-lint.yml",
     "**/*.md"
-
   ]
 }
