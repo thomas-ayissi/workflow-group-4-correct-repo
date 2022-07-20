@@ -25,7 +25,7 @@
 - Barnabas
   - > _"**Be** the **Be** you tell others to **Be**"_
 - Bibha
-  - > ""
+  - > "None of us is as smart as all of us "
 - Nashmia
   - > "If _the plan_ does't work, change _the plan_ but not _the goal_."
 - Oleksii
