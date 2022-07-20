@@ -9,3 +9,4 @@ ignore:
   - .vscode
   - .idea
   - .DS_Store
+  - students-bio/podnesTaF
