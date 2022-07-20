@@ -21,7 +21,7 @@
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
 - Anass
-  - > "Whatever you are, be a good one"
+  - > "whatever you are, be a good one"
 - Barnabas
   - > _"**Be** the **Be** you tell others to **Be**"_
 - Bibha
