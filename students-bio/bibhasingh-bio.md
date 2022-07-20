@@ -6,10 +6,7 @@
 
 ## Linked-in: [bibha-singh](https://www.linkedin.com/in/bibha-singh-23448423a/)
 
-## **My interest**
+## About me
 
-- Cooking :yum:
-- Coding :computer:
-- Singing :musical_note:
-
-Excited to explore IT world :blush:
+- I really like to watching the football match :soccer:
+- Excited to explore IT world :blush:
