@@ -21,7 +21,7 @@
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
 - Anass
-  - > "fast learner with a short term losing memory"
+  - > "whatever you are, be a good one"
 - Barnabas
   - > _"**Be** the **Be** you tell others to **Be**"_
 - Bibha
