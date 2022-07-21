@@ -1,6 +1,6 @@
-# Group-4 Website
+# Group-4 Page
 
-Hi, welcome to Group 4 website.
+Hi, welcome to Group 4 page.
 
 We started this site during the second week of Hack Your Future training in
 Class 19.
