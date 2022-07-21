@@ -2,9 +2,9 @@
 
 ## Name
 
-:raised_hand: I am Thomas
+Hi :raised_hand: I am Thomas Ayissi.
 
-## Places where I have lived ?
+## Places where I have lived :grey_question:
 
 Born and raised in this (sad) world
 
@@ -12,10 +12,20 @@ Born and raised in this (sad) world
 
 Sciences, Information/Communication and Code
 
-## Why learn code ?
+## Why learn code :grey_question:
 
 To improve my skills :computer: and find a job.
 
-## :camera: Image
+## Some hobbies
+
+- :video_game: Video games
+- :video_camera: Photography :
+  [some of my pictures here](https://galerie-b.thomasayissi.tech/).
+- :books: Reading
+- :musical_note: Music Singing and playing guitar and piano
+
+
+
+## My :camera: Image
 
 ![This is a picture of Thomas.](img/pic-thomas.jpeg "This is a sample image of Thomas.").
