@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4716208a-9865-48e8-a174-5577bbc7c884" name="Changes" comment="editing last line readme file">
+      <change afterPath="$PROJECT_DIR$/students-bio/hyf-class19.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="group4-readme-file-21julyversion" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2C4bqBJDPXH2CMQbLXelVVYmLMC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/thomasayissi/Documents/workflow-group-4-correct-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/thomasayissi/Documents/workflow-group-4-correct-repo/node_modules/prettier",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/students-bio/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.lint:md">
+    <configuration name="format" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="format:check" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format:check" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:ls" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:ls" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:md" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:md" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="spell-check" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="spell-check" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.lint:ls" />
+        <item itemvalue="npm.spell-check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4716208a-9865-48e8-a174-5577bbc7c884" name="Changes" comment="" />
+      <created>1658064993003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658064993003</updated>
+      <workItem from="1658064994358" duration="2876000" />
+      <workItem from="1658335941950" duration="11740000" />
+      <workItem from="1658412209471" duration="4315000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add thomas-ayissi-bio">
+      <created>1658065250351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658065250351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add thomas-bio after fixed errors">
+      <created>1658066183770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658066183771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="save changes in .cspell.json .gitgnore  .ls-lint.yml  package-lock.json  package.json  settings.json">
+      <created>1658337504581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658337504581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add &quot;students-bio/podnesTaF.md&quot; .cspell.json .gitgnore  .ls-lint.yml - still trying to fix errors">
+      <created>1658338237688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658338237688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change name of &quot;students-bio/podnesTaF.md&quot; in podnestaf-amended-version-by-thomas20july.md">
+      <created>1658338550573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658338550573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pull branch  anasabbar-patch-1 in this branch. There is a conflict about podnes.md file. There are three versions. also include changes un .cspell.json">
+      <created>1658339560794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658339560794</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pull branch  bibha in this branch. There is a conflict inside .cspell.json file. I think it's fixed with some changes.">
+      <created>1658340271630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658340271630</updated>
+    </task>
+    <task id="LOCAL-00008" summary="correction of a font error in the file .ls-lint.yml">
+      <created>1658342238915</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658342238915</updated>
+    </task>
+    <task id="LOCAL-00009" summary="correction of a font error in the file .ls-lint.yml">
+      <created>1658342301982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658342301982</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correction of a font error in the file .ls-lint.yml">
+      <created>1658342574894</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658342574894</updated>
+    </task>
+    <task id="LOCAL-00011" summary="correction of another font error in the file .ls-lint.yml">
+      <created>1658343079828</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658343079828</updated>
+    </task>
+    <task id="LOCAL-00012" summary="correction of another font error in the file .ls-lint.yml">
+      <created>1658343522032</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658343522032</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correction of another font error in the file .ls-lint.yml">
+      <created>1658343969217</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658343969217</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correction of others font error in the file .ls-lint.yml">
+      <created>1658344287888</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658344287888</updated>
+    </task>
+    <task id="LOCAL-00015" summary="inclusion of changes in Bibha bio contained in the &quot;main&quot; branch">
+      <created>1658401705188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658401705188</updated>
+    </task>
+    <task id="LOCAL-00016" summary="inclusion &quot;main&quot; branch changes">
+      <created>1658401800142</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658401800142</updated>
+    </task>
+    <task id="LOCAL-00017" summary="editing the read me file">
+      <created>1658412810274</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658412810274</updated>
+    </task>
+    <task id="LOCAL-00018" summary="editing thomas-group4-bio.md file">
+      <created>1658413130017</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658413130017</updated>
+    </task>
+    <task id="LOCAL-00019" summary="editing last line readme file">
+      <created>1658413486712</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658413486712</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add thomas-ayissi-bio" />
+    <MESSAGE value="Add thomas-bio after fixed errors" />
+    <MESSAGE value="save changes in .cspell.json .gitgnore  .ls-lint.yml  package-lock.json  package.json  settings.json" />
+    <MESSAGE value="Add &quot;students-bio/podnesTaF.md&quot; .cspell.json .gitgnore  .ls-lint.yml - still trying to fix errors" />
+    <MESSAGE value="Change name of &quot;students-bio/podnesTaF.md&quot; in podnestaf-amended-version-by-thomas20july.md" />
+    <MESSAGE value="pull branch  anasabbar-patch-1 in this branch. There is a conflict about podnes.md file. There are three versions. also include changes un .cspell.json" />
+    <MESSAGE value="pull branch  bibha in this branch. There is a conflict inside .cspell.json file. I think it's fixed with some changes." />
+    <MESSAGE value="correction of a font error in the file .ls-lint.yml" />
+    <MESSAGE value="correction of another font error in the file .ls-lint.yml" />
+    <MESSAGE value="correction of others font error in the file .ls-lint.yml" />
+    <MESSAGE value="inclusion of changes in Bibha bio contained in the &quot;main&quot; branch" />
+    <MESSAGE value="inclusion &quot;main&quot; branch changes" />
+    <MESSAGE value="editing the read me file" />
+    <MESSAGE value="editing thomas-group4-bio.md file" />
+    <MESSAGE value="editing last line readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="editing last line readme file" />
+  </component>
+</project>
