@@ -7,5 +7,10 @@ ignore:
   - node_modules
   - .github
   - .vscode
+  - workflow-group-4.github.io
+  - workflow-group-4.github.io/node_modules
+  - workflow-group-4.github.io/node_modules/.cache
+  - workflow-group-4.github.io/students-bio/workflow-group-4.github.io
   - .idea
+  - .idea/codeStyles
   - .cspell.json

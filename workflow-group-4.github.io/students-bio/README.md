@@ -1,11 +1,4 @@
-# Group-4 Page
-
-Hi, welcome to Group 4 page.
-
-We started this site during the second week of Hack Your Future training in
-Class 19.
-
-We will regularly update this site with our work.
+# Group-4 README
 
 ## Week 2: Chapter 3
 
