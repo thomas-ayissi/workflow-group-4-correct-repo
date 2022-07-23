@@ -19,7 +19,7 @@ We will regularly update this site with our work.
 - [x] added my intro file in `/people` according to group conventions
 - [x] linked to my file from `/README.md` according to group conventions
 
-**Naming convention for "intro" files : intro-from-same name as GitHub
+**Naming convention for our "intro" files : intro-from-same name as GitHub
 login-group-four**
 
 | Name                | Links to the introduction files in the "people" folder                               |
