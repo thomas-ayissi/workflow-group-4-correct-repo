@@ -23,7 +23,7 @@ We will regularly update this site with our work.
 login-group-four**
 
 | Name                | Links to the introduction files in the "people" folder                               |
-| ------------------- | ------------------------------------------------------------------------------------ |
+| ------------------- |--------------------------------------------------------------------------------------|
 | Annass Abbar        | [Enter the text that will be displayed](https://github.com/anasabbar)                |
 | Barnabas Jema       | [Enter the text that will be displayed](https://github.com/Lemma-Barnabas)           |
 | Nashmia Burki       | [Enter the text that will be displayed](https://github.com/nashmiab)                 |
