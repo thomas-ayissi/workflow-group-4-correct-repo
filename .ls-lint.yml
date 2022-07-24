@@ -8,7 +8,5 @@ ignore:
   - .github
   - .vscode
   - .idea
-  - .cspell.json
-  - workflow-group-4.github.io/node_modules/.cache
-  - workflow-group-4.github.io/node_modules/
-  - workflow-group-4.github.io
+
+
