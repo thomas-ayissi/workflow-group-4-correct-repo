@@ -1,8 +1,11 @@
-# Group-4 Page
+# Week 2 : students bio and intro files
+
+## Getting Started
 
 Hi, welcome to Group 4 page.
 
-We started this website during the second week of Hack Your Future training in Class 19.
+We started this website during the second week of Hack Your Future training in
+Class 19.
 
 We will regularly update this site with our work.
 
@@ -21,17 +24,14 @@ We will regularly update this site with our work.
 **Naming convention for "intro" files : intro-from-same name as GitHub
 login-group-four**
 
-
-| Name                | Links to the introduction files in the "people" folder                               |
-| ------------------- |--------------------------------------------------------------------------------------|
-
+| Name                | Intro Files Links                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------ |
 | Annass Abbar        | [Enter the text that will be displayed](https://github.com/anasabbar)                |
 | Barnabas Jema       | [Enter the text that will be displayed](https://github.com/Lemma-Barnabas)           |
 | Nashmia Burki       | [Enter the text that will be displayed](https://github.com/nashmiab)                 |
 | Bibha Singh         | [Enter the text that will be displayed](https://github.com/bibhasingh)               |
 | Oleksii Pidnebesnyi | [Enter the text that will be displayed](https://github.com/podnesTaF)                |
-| Thomas Ayissi       | [intro-from-thomas-ayissi-group-four](people/intro-from-thomas-ayissi-group-four.md) |
-
+| Thomas Ayissi       | [intro-from-thomas-ayissi-group-fourthomas-ayissi](https://github.com/thomas-ayissi) |
 
 ## Group Members
 
