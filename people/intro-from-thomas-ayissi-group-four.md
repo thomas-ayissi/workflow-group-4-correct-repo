@@ -3,7 +3,7 @@
 To have some content for this exercise, let's just try to define two mo Two
 definitions
 
-## Two definitions
+## Two little definitions
 
 Let's keep it simple! Let's define the word definition as well as the word
 programming.
