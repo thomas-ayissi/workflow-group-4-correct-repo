@@ -2,7 +2,7 @@
 
 Hi, welcome to Group 4 page.
 
-We started this site during the second week of Hack Your Future training in
+We started this website during the second week of Hack Your Future training in
 Class 19.
 
 We will regularly update this site with our work.
@@ -14,26 +14,22 @@ We will regularly update this site with our work.
 - Deliverable:
   [Group Intro Repo](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/group-introduction-repo.md)
 
-
 ## Individual work of group 2
 
 - [x] added my intro file in `/people` according to group conventions
 - [x] linked to my file from `/README.md` according to group conventions
 
-**Naming convention for "intro" files : intro-from-same name as GitHub login-group-four**
+**Naming convention for "intro" files : intro-from-same name as GitHub
+login-group-four**
 
-
-
-| Name                | Intro Files Links                                        |
-| ------------------- | --------------------------------------------------- |
-| Annass Abbar        | [Enter the text that will be displayed](https://github.com/anasabbar)           |
-| Barnabas Jema       | [Enter the text that will be displayed](https://github.com/Lemma-Barnabas) |
-| Nashmia Burki       | [Enter the text that will be displayed](https://github.com/nashmiab)             |
-| Bibha Singh         | [Enter the text that will be displayed](https://github.com/bibhasingh)         |
-| Oleksii Pidnebesnyi | [Enter the text that will be displayed](https://github.com/podnesTaF)           |
-| Thomas Ayissi       | [intro-from-thomas-ayissi-group-fourthomas-ayissi](https://github.com/thomas-ayissi)   |
-
-
+| Name                | Intro Files Links                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| Annass Abbar        | [Enter the text that will be displayed](https://github.com/anasabbar)                |
+| Barnabas Jema       | [Enter the text that will be displayed](https://github.com/Lemma-Barnabas)           |
+| Nashmia Burki       | [Enter the text that will be displayed](https://github.com/nashmiab)                 |
+| Bibha Singh         | [Enter the text that will be displayed](https://github.com/bibhasingh)               |
+| Oleksii Pidnebesnyi | [Enter the text that will be displayed](https://github.com/podnesTaF)                |
+| Thomas Ayissi       | [intro-from-thomas-ayissi-group-fourthomas-ayissi](https://github.com/thomas-ayissi) |
 
 ## Group Members
 
@@ -45,7 +41,6 @@ We will regularly update this site with our work.
 | Bibha Singh         | [bibhasingh](https://github.com/bibhasingh)         |
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
-
 
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
@@ -62,5 +57,3 @@ We will regularly update this site with our work.
 - Thomas
   - > "_Bis repetita placent_” (Things repeated, asked for again, end up
     > pleasing.)"
-
-
