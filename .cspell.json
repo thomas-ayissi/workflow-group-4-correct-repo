@@ -26,15 +26,8 @@
     "Ababa",
     "Lngs",
     "kiki",
-    "Annass"
+    "Annass",
+    "fourthomas"
   ],
-  "ignorePaths": [
-    "node_modules/**",
-    "package.json",
-    "package-lock.json",
-    "**/*.mp4",
-    "**/*.svg",
-    "**/*.md",
-    ".ls-lint.yml"
-  ]
+  "ignorePaths": []
 }
