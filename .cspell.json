@@ -1,11 +1,40 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture"],
+  "words": [
+    "Abbar",
+    "anasabbar",
+    "Anass",
+    "Ayissi",
+    "Bibha",
+    "bibhasingh",
+    "Burki",
+    "Cherkassy",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "managment",
+    "Mohila",
+    "Nashmia",
+    "nashmiab",
+    "Oleksii",
+    "Pidnebesnyi",
+    "placent",
+    "podnes",
+    "Quetes",
+    "repetita",
+    "Jema",
+    "Addis",
+    "Ababa",
+    "Lngs",
+    "kiki",
+    "Annass"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg"
+    "**/*.svg",
+    "**/*.md",
+    ".ls-lint.yml"
   ]
 }

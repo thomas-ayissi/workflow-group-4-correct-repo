@@ -7,3 +7,6 @@ ignore:
   - node_modules
   - .github
   - .vscode
+  - .idea
+  - .cspell.json
+  
