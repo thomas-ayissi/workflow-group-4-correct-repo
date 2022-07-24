@@ -1,4 +1,6 @@
-# Group-4 Page
+# Week 2 : students bio and intro files
+
+## Getting Started
 
 Hi, welcome to Group 4 page.
 
