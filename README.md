@@ -42,6 +42,7 @@ login-group-four**
 | Oleksii Pidnebesnyi | [podnesTaF](https://github.com/podnesTaF)           |
 | Thomas Ayissi       | [thomas-ayissi](https://github.com/thomas-ayissi)   |
 
+
 ### Quotes That Sums Up The Team Members Mindset for This Week
 
 - Anass
