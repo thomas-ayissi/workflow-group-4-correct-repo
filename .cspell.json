@@ -29,5 +29,11 @@
     "Annass",
     "fourthomas"
   ],
-  "ignorePaths": []
+  "ignorePaths": [
+    "node_modules/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg"
+  ]
 }
